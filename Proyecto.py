@@ -190,7 +190,7 @@ for e in histo_1.keys():
 arch2_1.close()
 
 print ('\n',datos_txt1)
-#------------------------------------Para el texto 2--------------------------------------------------------datos_txt1 = textos[0].split()
+#------------------------------------Para el texto 2--------------------------------------------------------
 datos_txt2 = textos[2].split()
 del datos_txt2[0:2]
 txt_2 = ''.join(datos_txt2)
